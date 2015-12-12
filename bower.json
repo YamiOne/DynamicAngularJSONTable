@@ -1,0 +1,29 @@
+{
+  "name": "AnelBootstrap",
+  "version": "0.0.0",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "angular-route": "~1.4.7",
+    "bootflat": "*",
+    "font-awesome": "~4.4.0",
+    "sweetalert2": "~0.2.3",
+    "angular-material": "~0.11.4",
+    "ngmap": "~1.14.16",
+    "animate.css": "~3.4.0",
+    "bootstrap": "~3.3.6",
+    "angular-file-upload": "~2.2.0"
+  },
+  "description": "",
+  "main": "",
+  "homepage": "",
+  "private": true
+}
